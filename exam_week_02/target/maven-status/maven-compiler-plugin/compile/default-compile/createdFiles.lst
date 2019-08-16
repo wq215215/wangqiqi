@@ -1,0 +1,7 @@
+com\bw\wangqiqi\mapper\NewsMapper.class
+com\bw\wangqiqi\utils\IsNumber.class
+com\bw\wangqiqi\utils\StringUtils.class
+com\bw\wangqiqi\controller\NewsController.class
+com\bw\wangqiqi\service\NewsService.class
+com\bw\wangqiqi\entity\News.class
+com\bw\wangqiqi\service\NewsServiceImpl.class
